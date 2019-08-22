@@ -1,2 +1,2 @@
-# ibmcloud-redis
-Repositório com instruções e código sobre como utilizar o Redis na IBM Cloud.
+# iredis-pysnippets
+IBM Redis Python API code snippets.
