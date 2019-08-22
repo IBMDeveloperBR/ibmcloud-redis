@@ -1,5 +1,7 @@
 # ibmcloud-redis
 
+Este repositório contém pedaços de código para facilitar o uso do Redis na IBM Cloud. Ele automatiza a leitura e extração do JSON gerado pela IBM Cloud com as credenciais do serviço, prontas para serem usadas com a biblioteca Python oficial do Redis.
+
 ## Como utilizar:
 
 - Crie uma instância do [Redis na IBM Cloud](https://cloud.ibm.com/catalog/services/databases-for-redis)
