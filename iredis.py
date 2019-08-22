@@ -2,8 +2,8 @@
     Python code snippets to work with IBM Redis and the `redis` library.
     The redis driver can be installed using the command: `pip install redis`.
     The openssl package is also a requirement.
-    Updated the last time at: 22:04 19/AUG/2019
-    # https://github.com/andymccurdy/redis-py
+    Updated the last time at: 22:04 22/AUG/2019 by @vnderlev
+    Official Redis Python API repository: https://github.com/andymccurdy/redis-py
 """
 
 import json
